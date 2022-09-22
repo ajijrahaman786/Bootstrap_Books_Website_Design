@@ -613,9 +613,21 @@ span {
 	h1.title-setion-1 {
 		font-size: 33px;
 	}
+	i.fa-solid.fa-desktop.fa-3x.py-2.pt-3 {
+		font-size: 30px;
+	}
+    .desktop h3 {
+		font-size: 18px;
+	}
+	.m-0 {
+		font-size: 12px;
+	}
+	i.fa-solid.fa-mobile.fa-3x.py-2.pt-3{
+		font-size: 30px;
+	}
 
 	.card {
-		margin: 1em 3em;
+		margin: 1em 0em;
 	}
 
 	h2.footer-text {
