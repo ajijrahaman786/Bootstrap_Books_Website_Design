@@ -12,7 +12,10 @@
 	margin: 0;
 	padding: 0;
 }
-
+h1,h2,h3,h4,h5,h6,ul,li{
+	margin: 0;
+	padding: 0;
+}
 body {
 	font-family: 'Poppins', sans-serif;
 	font-size: 16px;
@@ -66,7 +69,7 @@ a.nav-link {
 
 .navbar-nav .nav-link.active,
 .navbar-nav .show>.nav-link {
-	color: white;
+	color: black;
 }
 
 a.nav-link:hover {
@@ -294,7 +297,7 @@ button.btn.btn-light.py-2.px-5.mt-3 {
 }
 
 .card-items {
-	margin-top: 4%;
+	margin-top: 7%;
 }
 
 .card-title {
